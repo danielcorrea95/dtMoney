@@ -22,14 +22,14 @@ export function TransactionsTable() {
         </thead>
         <tbody>
           <tr>
-            <td>Salário</td>
-            <td className="deposit">R$3600,00</td>
-            <td>Salário</td>
-            <td>10/09/2021</td>
+            <td>Desenvolvimento</td>
+            <td className="deposit">R$5400,00</td>
+            <td>Dev</td>
+            <td>15/09/2021</td>
           </tr>
           <tr>
-            <td>Internet</td>
-            <td className="withdraw">- R$105.00</td>
+            <td>Aluguel</td>
+            <td className="withdraw">- R$1050.00</td>
             <td>Pagamento</td>
             <td>10/09/2021</td>
           </tr>
